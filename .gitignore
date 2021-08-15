@@ -4,4 +4,6 @@
 *.log
 *.sql
 *.sqlite
+*.jpg
+*.jif
 workspace.code-workspace
